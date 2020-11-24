@@ -1,6 +1,8 @@
 # High frequency lineage tracking analysis
 ## python3 version: This fork of the original repo works with python3
 
+## Trying to change fit error model in an experimental setup where the barcodes are not getting renewed.
+
 ## Content description:
 This directory contains scripts that can be used to repeat all the analysis described in sections 2, and 4-7 of the Supplementary Information accompanying Nguyen Ba*, Cvijovic* and Rojas Echenique*, et al. (2019), and to generate all figures accompanying the manuscript.
 
